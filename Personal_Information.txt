@@ -1,7 +1,7 @@
 Name: Leila Lynne M. Navato
-Address: #334 Domalandan East, Lingayen, Pangasinan
-Birthdate: March 11, 2000
-Gender: Female
+Address: #334 Domalandan East, Lingayen, Pangasinan		Age: 18 years old
+Birthdate: March 11, 2000					Civil Status: Single
+Gender: Female							Religion: Roman Catholic
 
 Contact Information
 Address: #334 Domalandan Eazst, Lingayen, Pangasinan
@@ -13,3 +13,9 @@ Parents/Guradian Information
 Father: Peddy V. Navato						Occupation: Overseas Working Filipino
 Mother: Lyneil M. Navato					Occupation: Housewife
 Phone number to call in case of emergency: 09284736836
+
+College/Course Information
+Course: Chemical
+Degree: Bachelor of Science in Chemical Engineering
+College: Faculty of Engineering
+Status: On-going
